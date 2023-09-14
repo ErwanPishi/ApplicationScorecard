@@ -1,5 +1,5 @@
 # ApplicationScorecard
-使用toad制作申请卡信用评分卡
+使用toad制作申请卡信用评分卡（用到征信变量衍生）
 
 首先证明一个疑惑：
 
